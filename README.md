@@ -126,3 +126,6 @@ Requests are intentionally bounded rather than performing unrestricted bulk coll
 This repository is a minimal demonstration of the intended API integration and access pattern.
 
 It is not intended to be a commercial Reddit application or a public Reddit service.
+
+## License
+Personal use only. Not distributed as a public/commercial application.
